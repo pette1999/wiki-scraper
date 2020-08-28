@@ -1,0 +1,24 @@
+[INFO  - 2020-08-28T00:52:11.417Z] GhostDriver - Main - running on port 64695
+[INFO  - 2020-08-28T00:52:11.585Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-08-28T00:52:11.585Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.customHeaders:  - {}
+[INFO  - 2020-08-28T00:52:11.585Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-08-28T00:52:11.585Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67
+[ERROR - 2020-08-28T00:52:16.922Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.onError - msg: Can't find variable: URLSearchParams
+https://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-28T00:52:16.922Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-28T00:52:16.922Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.onError - msg: Can't find variable: URLSearchParams
+https://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2 Possibly unhandled rejection: {"stack":"https://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2:1094099\nhttps://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2:1094456\nhttps://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2:303625\ncompleteTask@https://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2:513610\nhttps://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7:2:335587","line":2,"sourceURL":"https://cdn.americancasinoguide.com/ciesta/snow/js/full_en-us.min.js?m=3cbb8081cec709b4e4814d509ca90dc7"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-28T00:52:16.923Z] Session [b4fd16d0-e8c8-11ea-bcdd-f11ae6b1fe67] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-28T00:52:18.476Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1598575937845
+
+  phantomjs://platform/console++.js:263 in error
